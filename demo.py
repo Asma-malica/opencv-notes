@@ -5,3 +5,4 @@ print(img)
 cv2.imshow('Screenshot (186).png',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+//demo.py
